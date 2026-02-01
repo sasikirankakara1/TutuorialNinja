@@ -17,6 +17,7 @@ public class TestOne extends NinjaTutorialsBase {
 	@Test
 	public void testName() throws Exception {
 		logger.info("hellos");
+		takeScreenShot("hellos");
 		
 	}
 }
