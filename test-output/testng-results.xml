@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-02-01T22:37:01 IST" name="Default suite" finished-at="2026-02-01T22:37:01 IST" duration-ms="54">
+  <suite started-at="2026-02-01T22:51:17 IST" name="Default suite" finished-at="2026-02-01T22:51:20 IST" duration-ms="3513">
     <groups>
     </groups>
-    <test started-at="2026-02-01T22:37:01 IST" name="Default test" finished-at="2026-02-01T22:37:01 IST" duration-ms="54">
-      <class name="org.tests.TestOne">
-        <test-method signature="testName()[pri:0, instance:org.tests.TestOne@2f54a33d]" started-at="2026-02-01T22:37:01 IST" name="testName" finished-at="2026-02-01T22:37:01 IST" duration-ms="14" status="PASS">
+    <test started-at="2026-02-01T22:51:17 IST" name="Default test" finished-at="2026-02-01T22:51:20 IST" duration-ms="3513">
+      <class name="baseFiles.NinjaTutorialsBase">
+        <test-method signature="testName()[pri:0, instance:baseFiles.NinjaTutorialsBase@2a266d09]" started-at="2026-02-01T22:51:17 IST" name="testName" finished-at="2026-02-01T22:51:20 IST" duration-ms="3436" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testName -->
-      </class> <!-- org.tests.TestOne -->
+      </class> <!-- baseFiles.NinjaTutorialsBase -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
