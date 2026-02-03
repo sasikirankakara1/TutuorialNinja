@@ -5,9 +5,9 @@ import org.slf4j.LoggerFactory;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
-import baseFiles.NinjaTutorialsBase;
+import baseFiles.Base;
 
-public class TestOne extends NinjaTutorialsBase {
+public class TestOne extends Base {
 
 	@BeforeSuite
 	public void launch() {

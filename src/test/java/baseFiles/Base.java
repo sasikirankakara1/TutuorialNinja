@@ -17,7 +17,7 @@ import org.testng.annotations.Test;
 import pages.CommonFiles;
 import pages.HomePage;
 
-public class NinjaTutorialsBase {
+public class Base {
 
 	public static WebDriver driver;
 	public static Properties properties;
