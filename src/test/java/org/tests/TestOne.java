@@ -17,7 +17,9 @@ public class TestOne extends NinjaTutorialsBase {
 	@Test
 	public void testName() throws Exception {
 		logger.info("hellos");
-		takeScreenShot("hellos");
+//		homePage.clickSpecificTab("My Account");
+		homePage.clickSpecificTabWithinDropdown("My Account","Register");
+		takeScreenShot("hellos1234");
 		
 	}
 }
